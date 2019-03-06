@@ -1,4 +1,4 @@
 # Bifinance
 Bifinance Coding Test
 
-Open this solution using Visual Studio 2017.
+Open this solution with Visual Studio 2017.
